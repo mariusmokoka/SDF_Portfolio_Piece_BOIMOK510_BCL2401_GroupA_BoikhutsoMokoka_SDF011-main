@@ -21,24 +21,24 @@ We prioritize the security of our users' information. Our landing page communica
 
 ### Technologies Used:
 
-#### HTML5:
+***HTML5:
 For structuring the content of the webpage.
-#### CSS3:
+***CSS3:
 For styling and layout.
-#### JavaScript:
+***JavaScript:
 For interactive elements and form validation.
-#### Tailwind:
+***Tailwind:
 Utilized for responsive design and layout components.
-#### Font Awesome:
+***Font Awesome:
 For icons used throughout the page.
-#### Google Fonts:
+***Google Fonts:
 For typography.
 
 ### Contributing:
 We welcome contributions from the community to enhance our bank's landing page further. If you find any bugs, issues, or have suggestions for improvements, feel free to submit a pull request or open an issue on GitHub.
 
 ### License:
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License.
 
 ### Contact Us:
 If you have any questions or need assistance, please don't hesitate to contact our customer support team at hi@cachebank.com.
