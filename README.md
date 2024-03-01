@@ -48,6 +48,7 @@ Thank you for visiting our bank's landing page! We look forward to serving you.
 
 # Presentation
 
-## Presentation Slide Link:
+## Presentation Slide Link: 
+https://docs.google.com/presentation/d/1_3RasSkdBWwwrTpU6gRv_f1T9I12rI8fK2qrcgnaCrI/edit?usp=sharing
 
 ## Loom Presentation Link:
